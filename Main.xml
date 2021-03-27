@@ -1,9 +1,34 @@
-<dir>
+<dir> 
  <name>Movies</name>
- <link>https://pastebin.com/raw/GyTiyvCa</link>
+ <link>https://torrentsoo.github.io/codikodi/Movies.xml</link>
 </dir>
-
+ 
 <dir>
  <name>TV</name>
- <link>https://pastebin.com/raw/r5KmeLGn</link>
+ <link>https://torrentsoo.github.io/codikodi/TV.xml</link>
+</dir>
+ 
+<dir>
+ <name>Animation</name>
+ <link>https://torrentsoo.github.io/codikodi/animation.xml</link>
+</dir>
+ 
+<dir>
+ <name>Anime</name>
+ <link>https://torrentsoo.github.io/codikodi/anime.xml</link>
+</dir>
+ 
+<dir>
+ <name>Chinese Movies</name>
+ <link>https://torrentsoo.github.io/codikodi/chinesemovie.xml</link>
+</dir>
+ 
+<dir>
+ <name>Korean</name>
+<link>https://torrentsoo.github.io/codikodi/korean.xml</link>
+<dir>
+ 
+<dir>
+ <name>Bollywood</name>
+ <link>https://torrentsoo.github.io/codikodi/bollywood.xml</link>
 </dir>
