@@ -1,0 +1,53 @@
+<dir>
+ <name>Family Guy</name>
+ <meta>
+	<content>tvshow</content>
+	<imdb>tt0182576</imdb>
+	<tvshowtitle>Family Guy</tvshowtitle>
+	<year>1999</year>
+	<title>Family Guy</title>
+	<premiered>1999</premiered>
+ </meta>
+ <link>https://torrentsoo.github.io/codikodi/FamilyGuyS19.xml</link>
+ <thumbnail>https://fanart.tv/fanart/tv/75978/tvposter/family-guy-537965cf0b619.jpg</thumbnail>
+</dir>
+
+<dir>
+ <name>Friends</name>
+ <meta>
+	<content>tvshow</content>
+	<imdb>tt0108778</imdb>
+	<title>Friends</title>
+	<year>1994</year>
+ </meta>
+ <link>https://torrentsoo.github.io/codikodi/FriendsSeries.xml</link>
+  <thumbnail>https://fanart.tv/fanart/tv/79168/tvposter/friends-522501392b273.jpg</thumbnail>
+</dir>
+
+<dir>
+ <name>Jurassic World: Camp Cretaceous</name>
+ <meta>
+	<content>tvshow</content>
+	<imdb>tt10436228</imdb>
+	<tvshowtitle>Jurassic World: Camp Cretaceous</tvshowtitle>
+	<year>2020</year>
+	<title>Jurassic World: Camp Cretaceous</title>
+	<premiered>2020</premiered>
+ </meta>
+ <link>https://torrentsoo.github.io/codikodi/jurassicworldcamp.xml</link>
+ <thumbnail>https://m.media-amazon.com/images/M/MV5BYTlmOWM4YzUtNDE5Yy00ZmI3LTkzOTQtMGNlMjNkMDM5MDk3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+</dir>
+
+<dir>
+ <name>The Simpsons</name>
+ <meta>
+	<content>tvshow</content>
+	<imdb>tt0096697</imdb>
+	<tvshowtitle>The Simpsons</tvshowtitle>
+	<year>1989</year>
+	<title>The Simpsons</title>
+	<premiered>1989</premiered>
+ </meta>
+ <link>https://torrentsoo.github.io/codikodi/simpsonseries.xml</link>
+ <thumbnail>https://fanart.tv/fanart/tv/71663/tvposter/the-simpsons-580257bcd17ff.jpg</thumbnail>
+</dir>
