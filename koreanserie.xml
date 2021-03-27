@@ -6,6 +6,17 @@
 	<title>Sisyphus: The Myth (2021)</title> 
 	<year>2021</year>
  </meta>
-    <link>https://torrentsoo.github.io/codikodi/searchout.xml</link>
-	<thumbnail>https://cdn.videokvid.com/cover/search-out.png</thumbnail>
+    <link>https://torrentsoo.github.io/codikodi/sisyphus.xml</link>
+</dir>
+
+<dir>
+    <title>Tell Me What You Saw</title>
+    <meta>
+	<content>tvshow</content>
+	<imdb>tt11557904</imdb>
+	<title>Tell Me What You Saw</title> 
+	<year>2020</year>
+    </meta>
+    <link>https://torrentsoo.github.io/codikodi/tellmewhatyousaw.xml</link>
+    <thumbnail>https://artworks.thetvdb.com/banners/series/372063/posters/62042771.jpg</thumbnail>
 </dir>
