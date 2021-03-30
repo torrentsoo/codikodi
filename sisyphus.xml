@@ -1,12 +1,16 @@
  <item>
-	<name>Sijipeuseu: The Myth</name>
+	<title>EP: 01</title>
 	<meta>
-	<content>tvshow</content>
-	<imdb>tt13841958</imdb>
-	<title>Episode #1.1 </title> 
+	<content>episode</content>
+	<imdb>tt13715448</imdb>
+	<tvshowtitle>Sijipeuseu: The Myth</tvshowtitle>
 	<year>2021</year>
+	<title>Episode #1.1</title>
+	<season>1</season>
+	<episode>1</episode>
     </meta>
 	<link>
+	<sublink>search</sublink>
 	<sublink>magnet:?xt=urn:btih:cd0d70743607056ca92a9db3bec48bbde34eceec&dn=Sisyphus.The.Myth.S01E12.KOREAN.1080p.NF.WEBRip.DDP2.0.x264-Imagine%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2940&tr=udp%3A%2F%2F9.rarbg.to%3A2910</sublink>
 	</link>
 </item>
